@@ -19,8 +19,8 @@ while True:
         case 7:
             devolver_item()
         case 0:
-            print("Saindo...")
             break
         case _:
             print("Opção inválida!")
             os.system("pause")
+
